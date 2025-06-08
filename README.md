@@ -75,11 +75,11 @@ Oluşturulan Hamming Kodu: 011100101011011
 
 ### Hata Eklendikten Sonra:
 
-Hata Eklenmiş Kod: 011100101111011 (örneğin 11. bit değiştirildi)
+Hata Eklenmiş Kod: 011100101111011 (örneğin 10. bit değiştirildi)
 
 ### Düzeltme:
 
-Hata tespit edildi ve düzeltildi! Pozisyon: 11
+Hata tespit edildi ve düzeltildi! Pozisyon: 10
 Düzeltilmiş Kod: 011100101011011
 Orijinal Veri: 10110011
 
