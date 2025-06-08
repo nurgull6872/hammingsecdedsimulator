@@ -16,6 +16,8 @@ Bu proje, kullanıcıdan alınan 8, 16 veya 32 bitlik ikil veriyi **Hamming SEC-
 
 
 **```bash**
+
+
 **python secded.py**
 
 şeklinde kodu kullandığınız ideye göre değişebilecek şekilde terminalden çalıştırabilirsiniz
