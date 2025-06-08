@@ -5,7 +5,7 @@ Bu proje, kullanıcıdan alınan 8, 16 veya 32 bitlik ikil veriyi **Hamming SEC-
 
 ##  Kullanılan Teknolojiler
 
-- **Python **
+- **Python**
 - **tkinter** (GUI arayüz kütüphanesi)
 - **random** kütüphanesi(random sayı üretmek için)
 
@@ -13,6 +13,8 @@ Bu proje, kullanıcıdan alınan 8, 16 veya 32 bitlik ikil veriyi **Hamming SEC-
 ##  Kurulum
 
 .py uzantılı kodu kopyalayıp kaydettikten sonra
+
+
 **```bash**
 **python secded.py**
 
@@ -84,5 +86,7 @@ Orijinal Veri: 10110011
 ## Geliştirici
 
 **Nurgül Sarıtaş**
+
+
 Bilgisayar Mühendisliği Öğrencisi
 
